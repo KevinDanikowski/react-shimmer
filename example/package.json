@@ -1,6 +1,6 @@
 {
-  "name": "react-shimmer-example",
-  "homepage": "https://gokcan.github.io/react-shimmer",
+  "name": "react-test-components-example",
+  "homepage": "https://kevindanikowski.github.io/react-shimmer",
   "version": "0.0.0",
   "private": true,
   "license": "MIT",
@@ -9,7 +9,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^1.1.5",
-    "react-shimmer": "^3.0.1"
+    "@kevindanikowski/react-test-components": "0.0.0"
   },
   "scripts": {
     "start": "react-scripts start",

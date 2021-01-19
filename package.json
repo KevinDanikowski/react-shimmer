@@ -1,23 +1,14 @@
 {
-  "name": "react-shimmer",
-  "version": "3.1.1",
+  "name": "@kevindanikowski/react-test-components",
+  "version": "0.0.0",
   "description": "React Image (Suspense-like) Loader component that simulates a shimmer effect",
-  "author": "gokcan",
-  "keywords": [
-    "react",
-    "reactjs",
-    "suspense",
-    "react-suspense",
-    "react-image",
-    "loader",
-    "loading-indicator",
-    "shimmer",
-    "activity-indicator",
-    "placeholder",
-    "spinner"
-  ],
+  "author": "Kevin Danikowski",
+  "keywords": [],
   "license": "MIT",
-  "repository": "gokcan/react-shimmer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevindanikowski/react-shimmer.git"
+  },
   "main": "dist/index.js",
   "module": "dist/index.module.js",
   "source": "src/index.ts",
@@ -84,5 +75,12 @@
   "dependencies": {
     "clsx": "^1.1.0",
     "prop-types": "^15.7.2"
+  },
+  "bugs": {
+    "url": "https://github.com/kevindanikowski/react-shimmer/issues"
+  },
+  "homepage": "https://github.com/kevindanikowski/react-shimmer#readme",
+  "directories": {
+    "example": "example"
   }
 }

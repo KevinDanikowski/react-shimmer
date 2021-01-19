@@ -5,3 +5,5 @@ export type { ImageProps } from './Image'
 export * from './loaders'
 export type { ShimmerProps } from './loaders/shimmer/Shimmer'
 export type { BreathingProps } from './loaders/breathing/Breathing'
+
+export { TestComponent } from './TestComponent'
