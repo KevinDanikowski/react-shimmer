@@ -1,6 +1,6 @@
 {
   "name": "@kevindanikowski/react-test-components",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "React Image (Suspense-like) Loader component that simulates a shimmer effect",
   "author": "Kevin Danikowski",
   "keywords": [],
